@@ -3,7 +3,7 @@ import '../inicio.css';
 import {
     Link
 } from "react-router-dom";
-function Inicio() {
+function Inicio() {//prueba
     return (
         <div>
             <header>
