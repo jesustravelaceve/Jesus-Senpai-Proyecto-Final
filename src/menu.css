@@ -1,0 +1,24 @@
+
+
+img{
+    width: 80px;
+    height: 80px;
+    margin:10px 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+}
+.icono-borrar{
+    width: 20px;
+    height: 20px;
+}
+.menu{
+    background-color: white;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+.item-menu{
+    background-color: white;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}

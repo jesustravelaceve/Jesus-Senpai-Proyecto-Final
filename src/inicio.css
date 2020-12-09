@@ -1,0 +1,25 @@
+
+header img{
+    width: auto;
+    height: auto;
+    position:relative;
+}
+.portada{
+    margin-top: 5%;
+    position:relative;
+}
+
+.botones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:20px; 
+}
+.btninicio{
+    border-radius: 20px;
+    padding: 20px;
+    background-color: #912020ba;
+    color:white;
+    font-weight: 600;
+
+}
